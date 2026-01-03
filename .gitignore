@@ -1,2 +1,10 @@
 #Project Context
 PROJECT_CONTEXT.md
+#Cached Files
+Cache/
+Data/
+#Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+.DS_Store
+#Environment Variables
+.env
